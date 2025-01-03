@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Victor, an aspiring full-stack developer.  
+I'm Victor, an aspiring full-stack developer.
+🇲🇩 **From:** Republic of Moldova
 🧑🏻‍💻 **Currently learning:** React, .NET, PostgreSQL  
 🌟 **Focus:** Building efficient, user-friendly apps  
 ❤️ **Passion:** Solving problems through code and collaborating with others
